@@ -1,4 +1,4 @@
-# FullStack Social Media App
+# FullStack Social Media App by Mehnaz Sheikh
 
 Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
